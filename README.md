@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.facebook.com/share/1B6ci7Svt6/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45"/>
   </a>
 
   <a href="https://www.instagram.com/mhd_jahidul_islam?igsh=M3loMjFzb2ZrYW15" target="_blank">
@@ -47,6 +47,7 @@
   </a>
 
 </p>
+
 
 
 
