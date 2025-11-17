@@ -79,11 +79,4 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-## 🚀 Cool Developer Vibes  
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
-</p>
-
----
