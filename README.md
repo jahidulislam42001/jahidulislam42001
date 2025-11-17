@@ -33,19 +33,21 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+
+  <a href="https://www.linkedin.com/in/jahidul-islam-097949378" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="https://facebook.com/your-username" target="_blank">
+
+  <a href="https://www.facebook.com/share/1B6ci7Svt6/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
+
+  <a href="https://www.instagram.com/mhd_jahidul_islam?igsh=M3loMjFzb2ZrYW15" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
-  </a>
+
 </p>
+
 
 
 ---
