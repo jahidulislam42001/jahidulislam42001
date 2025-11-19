@@ -62,21 +62,27 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
+  <!-- Main GitHub stats -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jahidulislam42001&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulislam42001&layout=compact&langs_count=6&theme=tokyonight&hide=java,php" />
+  
+  <!-- Top Languages (removed hide to show all languages) -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulislam42001&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jahidulislam42001&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-
 <p align="center">
+  <!-- Snake contribution grid -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
